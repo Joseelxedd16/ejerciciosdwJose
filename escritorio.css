@@ -120,14 +120,19 @@ margin: 1%;
 
 .campo
 {
-margin: 1% 1% 0% 1%;
+margin: 0% 1% 1% 1%;
 float: left;
 width: 98%;
 }
-
-.campo
+#miformulario
 {
-margin: 1% 1% 0% 1%;
-float: left;
-width: 98%;
+margin: 1%;
+padding: 1%;
+width: 96%;		
+}
+.etiqueta
+{
+	margin: 0% 1%;
+	float: left;
+	width: 98%;
 }
